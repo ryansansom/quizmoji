@@ -1,0 +1,34 @@
+{
+  "categories":[
+    {
+      "name": "Underground Stations",
+      "levels": [
+        {
+          "name": "Level 1",
+          "content": [
+            {
+              "name": "Game 1",
+              "content": "EMOJI CONTENT HERE",
+              "solution": "SOLUTION GOES HERE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Films",
+      "levels": [
+        {
+          "name": "Level 1",
+          "content": [
+            {
+              "name": "Game 1",
+              "content": "EMOJI CONTENT HERE",
+              "solution": "SOLUTION GOES HERE"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
